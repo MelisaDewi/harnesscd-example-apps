@@ -1,4 +1,5 @@
-service:
+apiVersion: v1
+kind: Service
   name: harness_guestbook
   identifier: harnessguestbook
   serviceDefinition:
